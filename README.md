@@ -1,4 +1,4 @@
-# Hi, I'm Gnana Deep Gudapati 👋
+# Hi, I'm Gnanadeep Gudapati 👋
 
 > **AI/ML Engineer** building enterprise-grade intelligent systems — RAG pipelines, LLM evaluation frameworks, and agentic AI platforms.
 
