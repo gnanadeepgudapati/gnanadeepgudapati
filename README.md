@@ -1,14 +1,15 @@
 # Hi, I'm Gnanadeep Gudapati 👋
 
-> Building production **data and AI systems** with Python.
+> Building production **data and AI systems** with Python. Also freelancing part-time on **data pipeline projects**.
 
 ---
 
 ## 🚀 About Me
 
-I work on data pipelines, cloud infrastructure, and AI systems — RAG, LLM agents, and evaluation workflows.
+I work on production data systems — pipelines, cloud infrastructure, and AI workflows like RAG, LLM agents, and evaluation pipelines. On the side, I take on part-time freelance work building **data pipelines**, **integrations**, and small data-driven applications for clients.
 
-- 🛠️ Building: data and AI systems
+- 🛠️ Core: data pipelines, cloud infrastructure, AI systems
+- 💼 Side: part-time freelance on data pipeline and integration projects
 - 🐍 Mostly: Python and SQL
 - 📫 [gnanadeepgudapati@gmail.com](mailto:gnanadeepgudapati@gmail.com)
 
@@ -33,22 +34,22 @@ I work on data pipelines, cloud infrastructure, and AI systems — RAG, LLM agen
 
 ## 🌟 Featured Projects
 
-### 📥 [Enterprise Knowledge Assistant](https://github.com/gnanadeepgudapati)
+### 📥 [Enterprise Knowledge Assistant](https://github.com/gnanadeepgudapati/enterprise-knowledge-assistant)
 Scalable data ingestion pipeline with hybrid retrieval for document Q&A.
 
 *Python · Apache Airflow · Elasticsearch · Docker*
 
-### 🛡️ [Enterprise Agent Governance Platform](https://github.com/gnanadeepgudapati)
+### 🛡️ [Enterprise Agent Governance Platform](https://github.com/gnanadeepgudapati/Enterprise-Agent-Governance-Platform)
 Request routing and governance platform for LLM agents in production.
 
 *Python · FastAPI · AWS · CI/CD*
 
-### 🔗 [AI Agent Framework](https://github.com/gnanadeepgudapati)
+### 🔗 [AI Agent Framework](https://github.com/gnanadeepgudapati/AI-Agent-Framework)
 Modular backend framework for orchestrating data access across enterprise systems via REST APIs.
 
 *Python · FastAPI · AWS*
 
-### 📊 [LLM Evaluation Pipeline](https://github.com/gnanadeepgudapati)
+### 📊 [LLM Evaluation Pipeline](https://github.com/gnanadeepgudapati/AI-Evaluation-Dashboard)
 LLM-as-Judge evaluation pipeline with an analytics dashboard.
 
 *Python · FastAPI · PostgreSQL*
