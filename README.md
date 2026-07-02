@@ -87,13 +87,6 @@ Scalable data ingestion pipeline with hybrid retrieval for document Q&A.
 Modular backend framework for orchestrating data access across enterprise systems via REST APIs.
 `Python` · `FastAPI` · `AWS`
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gnanadeepgudapati&show_icons=true&hide_border=true&count_private=true" alt="Gnanadeep's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnanadeepgudapati&layout=compact&hide_border=true" alt="Top Languages" height="165">
-</p>
-
 ## 🎓 Education & Certifications
 
 **M.S. Information Science & Technology** — Missouri S&T, Rolla, MO
