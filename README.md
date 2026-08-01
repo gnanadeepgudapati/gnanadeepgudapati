@@ -9,7 +9,7 @@
   <a href="https://github.com/gnanadeepgudapati"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-AI developer and software engineer building **production data and AI systems** with Python. I focus on **LLM agents, RAG, and evaluation harnesses** — and I freelance part-time on data pipeline and integration projects.
+Full Stack AI Engineer building **production data and AI systems** with Python. I focus on **LLM agents, RAG, and evaluation harnesses** — and I freelance part-time on data pipeline and integration projects.
 
 ## 🚀 About Me
 
